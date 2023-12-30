@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hirakib
+- 👋 Hi, I’m @Arabi-Akter
 - 👀 I’m interested in networking  
 - 🌱 I’m currently learning mikcrotik  
 - 💞️ I’m looking to collaborate on ...
